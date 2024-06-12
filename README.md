@@ -1,2 +1,2 @@
-# Kodluyoruz-IBM---CyberStart
+# Kodluyoruz & IBM-CyberStart
 haftalar kısımı burada olacak 
